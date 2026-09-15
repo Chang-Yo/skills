@@ -5,5 +5,5 @@
 ## 快速安装 Quick install
 
 ```
-npx skills add Chang-Yo/ChangYo-skills
+npx skills add Chang-Yo/skills
 ```
